@@ -16,5 +16,4 @@ AluraPlus é um projeto de estudo de HTML e CSS, onde foi desenvolvido uma pági
 
 ## Autor
 
-- [Mário Sérgio Cavalcante](https://github.com/mario-sergio-cavalcante)
-   https://www.linkedin.com/in/mário-sérgio-freitas-ferreira-cavalcante-95bb1515a/
+- [Mário Sérgio Cavalcante](https://www.linkedin.com/in/mário-sérgio-freitas-ferreira-cavalcante-95bb1515a/)
